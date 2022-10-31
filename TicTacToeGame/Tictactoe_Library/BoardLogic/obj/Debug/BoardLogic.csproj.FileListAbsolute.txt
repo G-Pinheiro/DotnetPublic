@@ -1,0 +1,6 @@
+C:\Users\giulliano\source\repos\Tictactoe_Library\BoardLogic\bin\Debug\BoardLogic.dll
+C:\Users\giulliano\source\repos\Tictactoe_Library\BoardLogic\bin\Debug\BoardLogic.pdb
+C:\Users\giulliano\source\repos\Tictactoe_Library\BoardLogic\obj\Debug\BoardLogic.csproj.AssemblyReference.cache
+C:\Users\giulliano\source\repos\Tictactoe_Library\BoardLogic\obj\Debug\BoardLogic.csproj.CoreCompileInputs.cache
+C:\Users\giulliano\source\repos\Tictactoe_Library\BoardLogic\obj\Debug\BoardLogic.dll
+C:\Users\giulliano\source\repos\Tictactoe_Library\BoardLogic\obj\Debug\BoardLogic.pdb

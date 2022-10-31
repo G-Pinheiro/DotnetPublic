@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tictactoe", "Tictactoe.csproj", "{733AEE2D-334D-4AAE-8FBD-4EE9886D32FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoardLogic", "..\Tictactoe_Library\BoardLogic\BoardLogic.csproj", "{3630804A-895C-43BE-B07B-E16A7C4753C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacGUI", "..\TicTacGUI\TicTacGUI.csproj", "{31057F36-94AC-48A6-9C87-B899B8DA584A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{733AEE2D-334D-4AAE-8FBD-4EE9886D32FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{733AEE2D-334D-4AAE-8FBD-4EE9886D32FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{733AEE2D-334D-4AAE-8FBD-4EE9886D32FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{733AEE2D-334D-4AAE-8FBD-4EE9886D32FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3630804A-895C-43BE-B07B-E16A7C4753C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3630804A-895C-43BE-B07B-E16A7C4753C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3630804A-895C-43BE-B07B-E16A7C4753C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3630804A-895C-43BE-B07B-E16A7C4753C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31057F36-94AC-48A6-9C87-B899B8DA584A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31057F36-94AC-48A6-9C87-B899B8DA584A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31057F36-94AC-48A6-9C87-B899B8DA584A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31057F36-94AC-48A6-9C87-B899B8DA584A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8ABA1F8-DDBC-4295-AC2E-AF11C9CE470C}
+	EndGlobalSection
+EndGlobal
