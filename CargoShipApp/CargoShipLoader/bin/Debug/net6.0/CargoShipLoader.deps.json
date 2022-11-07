@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CargoShipLoader/1.0.0": {
+        "dependencies": {
+          "Ship": "1.0.0"
+        },
+        "runtime": {
+          "CargoShipLoader.dll": {}
+        }
+      },
+      "Ship/1.0.0": {
+        "runtime": {
+          "Ship.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CargoShipLoader/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ship/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CargoShipLoader", "CargoShipLoader.csproj", "{8888D7D2-AB52-430E-8DA0-62D62E46EA2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CargoShipGUI", "..\CargoShipGUI\CargoShipGUI.csproj", "{F72B991F-3F71-422D-B989-000651CE45EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ship", "..\Ship\Ship.csproj", "{2E68CC37-EDEE-41EA-B94D-E106D165078E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8888D7D2-AB52-430E-8DA0-62D62E46EA2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8888D7D2-AB52-430E-8DA0-62D62E46EA2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8888D7D2-AB52-430E-8DA0-62D62E46EA2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8888D7D2-AB52-430E-8DA0-62D62E46EA2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F72B991F-3F71-422D-B989-000651CE45EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F72B991F-3F71-422D-B989-000651CE45EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F72B991F-3F71-422D-B989-000651CE45EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F72B991F-3F71-422D-B989-000651CE45EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E68CC37-EDEE-41EA-B94D-E106D165078E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E68CC37-EDEE-41EA-B94D-E106D165078E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E68CC37-EDEE-41EA-B94D-E106D165078E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E68CC37-EDEE-41EA-B94D-E106D165078E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF176289-3F05-433F-851D-65E1800560A2}
+	EndGlobalSection
+EndGlobal

@@ -26,3 +26,7 @@ C:\Users\giulliano\source\repos\TicTacToeGame\TicTacGUI\obj\Debug\TicTacGUI.cspr
 C:\Users\giulliano\source\repos\TicTacToeGame\TicTacGUI\obj\Debug\TicTacGUI.csproj.CopyComplete
 C:\Users\giulliano\source\repos\TicTacToeGame\TicTacGUI\obj\Debug\TicTacGUI.exe
 C:\Users\giulliano\source\repos\TicTacToeGame\TicTacGUI\obj\Debug\TicTacGUI.pdb
+C:\Users\giulliano\source\repos\TicTacToeGame\TicTacGUI\bin\Debug\TicTacGUI.exe.manifest
+C:\Users\giulliano\source\repos\TicTacToeGame\TicTacGUI\bin\Debug\TicTacGUI.application
+C:\Users\giulliano\source\repos\TicTacToeGame\TicTacGUI\obj\Debug\TicTacGUI.exe.manifest
+C:\Users\giulliano\source\repos\TicTacToeGame\TicTacGUI\obj\Debug\TicTacGUI.application

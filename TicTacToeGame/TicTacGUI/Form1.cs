@@ -16,7 +16,6 @@ namespace TicTacGUI
         Board game = new Board();
         Button[] buttons = new Button[9];
 
-        // 
         public Form1()
         {
             InitializeComponent();
@@ -120,17 +119,21 @@ namespace TicTacGUI
                 if (game.Grid[i] == 0)
                 {
                     buttons[i].Text = "";
+                    buttons[i].Enabled = true;
                 }
                 else if (game.Grid[i] == 1)
                 {
                     buttons[i].Text = "X";
+                    buttons[i].Enabled = false;
                 }
                 else if (game.Grid[i] == 2)
                 {
                     buttons[i].Text = "O";
+                    buttons[i].Enabled = false;
                 }
-                else
+                /*else
                     buttons[i].Text = "";
+                    buttons[i].Enabled = true;*/
             }
         }
 
